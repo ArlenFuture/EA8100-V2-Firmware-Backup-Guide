@@ -19,7 +19,7 @@ This guide also explains how to take advantage of the router’s dual-partition 
 ## Backup Official Firmware
 To back up the official firmware for the Linksys EA8100 V2, you can download it directly from this repository:
 
-1. **Download the official firmware**: The final official FIR00 V2 firmware is available in the [`firmware`](./firmware) folder of this repository. You can also obtain it from the [Linksys support page](https://support.linksys.com/kb/article/4828-hk/).
+1. **Download the official firmware**: The final official firmware is available in the [`firmware`](./firmware) folder of this repository. You can also obtain it from the [Linksys support page](https://support.linksys.com/kb/article/4828-hk/).
    
 2. **Access the router interface**:
    - Open a web browser and log in to the router at its default IP (usually `http://192.168.1.1`).
