@@ -1,7 +1,7 @@
 
 # Linksys EA8100 V2 Backup and OpenWrt Update Guide
 
-This repository provides detailed instructions on how to back up the final official firmware (FIR00 V2) for the Linksys EA8100 V2 and how to safely update the router to OpenWrt. Additionally, it covers how to utilize the router's dual-partition system to switch between firmware versions.
+This repository provides detailed instructions on how to back up the final official firmware for the Linksys EA8100 V2 and how to safely update the router to OpenWrt. Additionally, it covers how to utilize the router's dual-partition system to switch between firmware versions.
 
 ## Table of Contents
 - [Introduction](#introduction)
